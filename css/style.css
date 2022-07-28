@@ -1,0 +1,14 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+.img-size{
+    height: 800px !important;
+}
+
+.price-color{
+    color: #289BDE !important;
+    font-weight: bold;
+}
+.center{
+    text-align: center !important;
+}
