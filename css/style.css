@@ -12,3 +12,12 @@ body{
 .center{
     text-align: center !important;
 }
+.foot-icon{
+    margin-left: 41% !important;
+}
+.foot-icon a{
+    text-decoration: none !important;
+}
+.foot-icon i{
+   margin-left: 30px !important;
+}
